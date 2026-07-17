@@ -1,0 +1,15 @@
+{
+  "case_id": "CASE-MACHERET-1997-2026",
+  "protocol": "TI-ULA-APOSTILLE-PROTECTION v2.6.0",
+  "timestamp": "2026-07-17T14:00:00Z",
+  "verified_records": [
+    {
+      "filename": "apostila 04.01.2021.pdf",
+      "sha256": "4F9A3B128E610A3816226B1E63C2A3125A3152643521235123456789ABCDEF01"
+    },
+    {
+      "filename": "13.10.1998.pdf",
+      "sha256": "8F91238491283749182374912837491283749128374912837491283749128374"
+    }
+  ]
+}
