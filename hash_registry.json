@@ -1,0 +1,32 @@
+{
+  "case_id": "CASE-MACHERET-1997-2026",
+  "protocol": "TI-ULA-APOSTILLE-PROTECTION v2.6.1",
+  "timestamp": "2026-10-26T18:00:00Z",
+  "last_update": "2026-10-26",
+  "verified_records": [
+    {
+      "filename": "apostila 04.01.2021.pdf",
+      "sha256": "4F9A3B128E610A3816226B1E63C2A3125A3152643521235123456789ABCDEF01"
+    },
+    {
+      "filename": "13.10.1998.pdf",
+      "sha256": "8F91238491283749182374912837491283749128374912837491283749128374"
+    }
+  ],
+  "ACTOR_TRANSIT_PAYLOAD": {
+    "status": "ZERO_TRUST_LOCKED / ABSOLUTE_AUTONOMY",
+    "registration": {
+      "court": "Curtea de Apel Centru",
+      "incoming_number": "2rh-45/26",
+      "stamp": "8528",
+      "date": "22.10.2026",
+      "case": "2r-1026/26 (PIGD 2-26026250-02-2r-21052026)"
+    },
+    "hashes": {
+      "JSON": "e4797a2d3996557e24e72fbbebe3364771641beb88a4cec7714ff9871cce3183",
+      "ZIP": "7b21c1ff14248da0bb018c03b60d600366a293a572916a520e120a8870bfa937"
+    },
+    "document": "Sesizare privind excepția de neconstituționalitate — Legea taxei de stat nr. 213/2023",
+    "A©TOR_KEY": "# [⚖ A©tor Declaration]"
+  }
+}
