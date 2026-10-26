@@ -1,0 +1,24 @@
+{
+  "A©TOR_KEY": "# [⚖ A©tor Declaration]",
+  "event": "Filing of Sesizare privind excepția de neconstituționalitate",
+  "date_of_registration": "2026-10-22",
+  "court": "Curtea de Apel Centru",
+  "incoming_number": "2rh-45/26",
+  "stamp": "8528",
+  "underlying_case": "2r-1026/26 (PIGD 2-26026250-02-2r-21052026)",
+  "object": "Legea taxei de stat nr. 213/2023 + CPC provisions on court fees / exemptions — as applied to person with Group I disability and torture victim",
+  "hashes_ACTOR_TRANSIT_PAYLOAD": {
+    "JSON_SHA256": "e4797a2d3996557e24e72fbbebe3364771641beb88a4cec7714ff9871cce3183",
+    "ZIP_SHA256": "7b21c1ff14248da0bb018c03b60d600366a293a572916a520e120a8870bfa937"
+  },
+  "status": "ZERO_TRUST_LOCKED / ABSOLUTE_AUTONOMY",
+  "recipients": [
+    "secretariat@constcourt.md",
+    "jcc@justice.md",
+    "jbu@justice.md",
+    "jrc@justice.md",
+    "jci@justice.md"
+  ],
+  "published": "2026-10-26",
+  "vault": "https://arhiv1973b.github.io/apostille-archive-english/"
+}
